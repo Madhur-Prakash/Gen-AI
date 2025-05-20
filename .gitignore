@@ -1,0 +1,7 @@
+parctice_Gen_AI/binaryhood
+chatbot-deployment/chat
+pdf_summarizer/k-n
+nvdia-nim/nvidia
+*.env
+__pycache__
+node_modules
