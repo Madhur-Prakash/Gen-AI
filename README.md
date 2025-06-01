@@ -78,4 +78,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 **Madhur-Prakash**  
-[GitHub](https://github.com/Madhur-Prakash)
+[GitHub](https://github.com/Madhur-Prakash) | [Medium](https://medium.com/@madhurprakash2005)
