@@ -24,7 +24,7 @@ This repository is dedicated to practicing and exploring various aspects of Gene
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:Madhur-Prakash/Gen-AI.git
+   git clone [git@github.com:Madhur-Prakash/Gen-AI.git](https://github.com/Madhur-Prakash/Gen-AI.git)
    ```
 2. Navigate to the project directory:
    ```bash
